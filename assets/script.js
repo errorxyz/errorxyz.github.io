@@ -1,4 +1,4 @@
-var strings = ["curious", "passionate", "dedicated", "hardworking"];
+var strings = ["curious", "passionate", "a developer"];
 
 var i = 0,
     j = -1,
