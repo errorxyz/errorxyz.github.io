@@ -1,0 +1,60 @@
+body {
+    font-family: "Poppins", monospace;
+    background-color: #263238;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+    margin-bottom: 80px;;
+}
+
+.logo {
+    font-size: 20px;
+    font-family: monospace;
+    color: #4c6772;
+}
+
+a {
+    padding-right: 20px;
+    text-decoration: none;
+    color: #4c6772;
+}
+
+a:hover {
+    color: #80cbc4;
+}
+
+.active {
+    color: #80cbc4;
+}
+
+#navbar {
+    margin-left: 1000px;
+    position: relative;
+    bottom: 25px;
+    font-size: 20px;
+}
+
+.heading {
+    font-size: 25px;
+    font-family: "Poppins";
+    color: #4c6772;
+}
+
+p {
+    color: #e6edf3;
+}
+
+ul {
+    color: #e6edf3 !important;
+}
+
+main {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.blogpost {
+    background-color: #394549;
+    border-radius: 25px;
+    padding: 20px;
+}
